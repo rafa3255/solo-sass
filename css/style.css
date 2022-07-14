@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(101, 87, 114);
+}
+
+div ul li {
+  padding: 2%;
+  margin: auto;
+}
+
+div {
+  color: rgb(20, 20, 20);
+}
+
+.final {
+  color: blue;
+}
+
+.display {
+  background-color: rgb(47, 70, 70);
+  padding: 10px;
+}
+
+.flex {
+  display: flex;
+  margin: auto;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */

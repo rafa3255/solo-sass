@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(101, 87, 114);
+}
+
+div ul li{
+    padding: 2%;
+    margin: auto;
+
+}
+
+div {
+    color: rgb(20, 20, 20);
+}
+
+.final {
+    color:$color-secundario
+}
+p{color:$color-principal }
+
+
+@import "test";
+
+$color-principal:rgb(255, 255, 255);
+$color-secundario:rgba(28, 39, 143, 0.808); 
+$color-boton:rgb(57, 88, 105);
